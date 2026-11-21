@@ -1,0 +1,16 @@
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/bin/Release/net8.0/native/b4n1-audit-linux-amd64
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/bin/Release/net8.0/native/b4n1-audit-linux-arm64
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/bin/Release/net8.0/native/b4n1-audit-linux-ia32
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/bin/Release/net8.0/native/b4n1-audit-windows-amd64.exe
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/bin/Release/net8.0/B4n1Audit.deps.json
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/bin/Release/net8.0/B4n1Audit.dll
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/bin/Release/net8.0/B4n1Audit.pdb
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/obj/Release/net8.0/B4n1Audit.GeneratedMSBuildEditorConfig.editorconfig
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/obj/Release/net8.0/B4n1Audit.AssemblyInfoInputs.cache
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/obj/Release/net8.0/B4n1Audit.AssemblyInfo.cs
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/obj/Release/net8.0/B4n1Audit.csproj.CoreCompileInputs.cache
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/obj/Release/net8.0/B4n1Audit.sourcelink.json
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/obj/Release/net8.0/B4n1Audit.dll
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/obj/Release/net8.0/refint/B4n1Audit.dll
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/obj/Release/net8.0/B4n1Audit.pdb
+/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/obj/Release/net8.0/ref/B4n1Audit.dll

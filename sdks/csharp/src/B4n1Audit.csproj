@@ -6,12 +6,14 @@
     <Nullable>enable</Nullable>
     <RootNamespace>B4n1Audit</RootNamespace>
     <AssemblyName>B4n1Audit</AssemblyName>
-    <Version>0.1.4</Version>
+    <Version>0.1.5</Version>
     <Authors>Bani Montoya</Authors>
     <Email>banimontoya@gmail.com</Email>
     <Description>B4N1 Audit SDK for .NET — security &amp; code quality scanner with bundled binary</Description>
     <PackageTags>security;audit;scanner;sarif;static-analysis</PackageTags>
     <PackageProjectUrl>https://b4n1.com</PackageProjectUrl>
+    <PackageLicenseFile>BUSL-1.1.txt</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <Company>B4N1</Company>
     <!-- Packaging/license: public package (task 952f7022). -->
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
@@ -19,6 +21,8 @@
 
   <ItemGroup>
     <None Include="..\README.md" Pack="true" PackagePath="\" />
+    <None Include="..\BUSL-1.1.txt" Pack="true" PackagePath="\" />
+    <None Include="EULA.txt" Pack="true" PackagePath="\" />
   </ItemGroup>
 
   <!-- Binarios empaquetados por plataforma (build-binaries.sh los copia aquí). -->

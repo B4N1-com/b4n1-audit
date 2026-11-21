@@ -5,7 +5,7 @@
   },
   "projects": {
     "/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/B4n1Audit.csproj": {
-      "version": "0.1.0",
+      "version": "0.1.5",
       "restore": {
         "projectUniqueName": "/home/b4n1/B4N1-Frameworks/sdks/b4n1-audit/csharp/src/B4n1Audit.csproj",
         "projectName": "B4n1Audit",
@@ -53,22 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.27, 8.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.27, 8.0.27]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.421/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/b4n1/.dotnet/sdk/8.0.421/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
