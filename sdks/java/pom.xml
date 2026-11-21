@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.b4n1</groupId>
+    <artifactId>b4n1-audit</artifactId>
+    <version>0.1.4</version>
+    <packaging>jar</packaging>
+
+    <name>b4n1-audit Java SDK</name>
+    <description>B4N1 Audit SDK for Java — security &amp; code quality scanner with bundled binary</description>
+
+    <url>https://b4n1.com</url>
+    <licenses>
+        <license>
+            <name>Business Source License 1.1</name>
+            <comments>Binaries are covered by the accompanying EULA.txt.</comments>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>Bani Montoya</name>
+            <email>banimontoya@gmail.com</email>
+        </developer>
+    </developers>
+
+    <properties>
+        <!-- Java 11 (LTS) — verificado con el javac local de esta máquina. -->
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <build>
+        <resources>
+            <!-- Binarios empaquetados por plataforma (build-binaries.sh). -->
+            <resource>
+                <directory>native</directory>
+                <targetPath>native</targetPath>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.3.0</version>
+            </plugin>
+        </plugins>
+    </build>
+</project>

@@ -1,0 +1,34 @@
+{
+  "name": "b4n1-audit",
+  "version": "0.1.4",
+  "description": "B4N1 Audit SDK for JavaScript — security & code quality scanner with bundled binary",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "files": [
+    "src",
+    "bin",
+    "README.md",
+    "EULA.txt",
+    "LICENSE",
+    "b4n1_audit_presentation.png"
+  ],
+  "scripts": {
+    "test": "node test/smoke.js"
+  },
+  "keywords": [
+    "security",
+    "audit",
+    "scanner",
+    "sarif",
+    "static-analysis"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/B4N1-com/b4n1-audit"
+  },
+  "homepage": "https://b4n1.com"
+}

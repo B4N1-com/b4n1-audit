@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+# Public SDK for b4n1-audit (BUSL-1.1 + EULA).
+[project]
+name = "b4n1-audit"
+version = "0.1.4"
+description = "B4N1 Audit SDK for Python — security & code quality scanner with bundled binary"
+authors = [
+    {name = "Bani Montoya", email = "banimontoya@gmail.com"}
+]
+license = "BUSL-1.1"
+license-files = ["LICENSE*", "EULA*"]
+keywords = ["security", "audit", "scanner", "sarif", "static-analysis", "ai"]
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Topic :: Security",
+]
+
+[project.urls]
+Homepage = "https://b4n1.com"
+Repository = "https://github.com/B4N1-com/b4n1-audit"
+
+[tool.setuptools]
+packages = ["b4n1audit", "b4n1audit.bin"]
+
+# Bundle the precompiled binaries (non-Python files) inside the wheel.
+[tool.setuptools.package-data]
+"b4n1audit.bin" = ["b4n1-audit-*"]
