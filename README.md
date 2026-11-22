@@ -4,7 +4,7 @@
 
 # b4n1-audit
 
-Security and code-quality scanner — one Rust core, thin wrappers for Python, JavaScript, Java and C#.
+Security and code-quality scanner — one native core, thin wrappers for Python, JavaScript, Java and C#.
 
 [![PyPI](https://img.shields.io/pypi/v/b4n1-audit.svg)](https://pypi.org/project/b4n1-audit/)
 [![Python](https://img.shields.io/pypi/pyversions/b4n1-audit.svg)](https://pypi.org/project/b4n1-audit/)
