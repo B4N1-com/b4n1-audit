@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/b4n1-audit@0.1.4/b4n1_audit_presentation.png" alt="B4N1 Audit — security and code-quality scanner" width="100%" />
+  <img src="b4n1_audit_presentation.png" alt="B4N1 Audit — security and code-quality scanner" width="100%" />
 </p>
 
 # b4n1-audit
