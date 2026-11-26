@@ -20,7 +20,7 @@ import sys
 from pathlib import Path
 from typing import Any, List, Optional, Union
 
-__version__ = "0.1.4"
+__version__ = "0.1.6"
 
 BIN_ENV = "B4N1_AUDIT_BIN"
 EXE = ".exe" if sys.platform == "win32" else ""

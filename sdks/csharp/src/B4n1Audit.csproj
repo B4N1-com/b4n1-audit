@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <RootNamespace>B4n1Audit</RootNamespace>
     <AssemblyName>B4n1Audit</AssemblyName>
-    <Version>0.1.5</Version>
+    <Version>0.1.6</Version>
     <Authors>Bani Montoya</Authors>
     <Email>banimontoya@gmail.com</Email>
     <Description>B4N1 Audit SDK for .NET — security &amp; code quality scanner with bundled binary</Description>

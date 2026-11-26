@@ -1,6 +1,6 @@
 {
   "name": "b4n1-audit",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "description": "B4N1 Audit SDK for JavaScript — security & code quality scanner with bundled binary",
   "main": "src/index.js",
   "types": "src/index.d.ts",

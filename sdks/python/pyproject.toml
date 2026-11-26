@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 # Public SDK for b4n1-audit (BUSL-1.1 + EULA).
 [project]
 name = "b4n1-audit"
-version = "0.1.4"
+version = "0.1.6"
 description = "B4N1 Audit SDK for Python — security & code quality scanner with bundled binary"
 authors = [
     {name = "Bani Montoya", email = "banimontoya@gmail.com"}
