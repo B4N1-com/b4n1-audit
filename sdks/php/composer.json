@@ -1,0 +1,17 @@
+{
+  "name": "b4n1/b4n1-audit",
+  "description": "Sovereign security audit - static analysis engine (PHP wrapper of the precompiled binary)",
+  "type": "library",
+  "license": "BUSL-1.1",
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "B4N1\\Audit\\": "src/"
+    }
+  },
+  "bin": [
+    "bin/b4n1-audit-linux-amd64"
+  ]
+}

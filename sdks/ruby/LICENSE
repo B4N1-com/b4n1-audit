@@ -1,0 +1,15 @@
+PROPRIETARY AND CONFIDENTIAL SOURCE CODE
+Copyright (c) 2026 Bani Montoya (B4N1). All Rights Reserved.
+
+This source code and the underlying algorithms, architectures, and intellectual property 
+are strictly proprietary and confidential. 
+
+Unauthorized copying, distribution, decompilation, public display, or modification 
+of this file and repository, via any medium, is strictly prohibited.
+
+This software is distributed under the Business Source License 1.1 (BUSL-1.1) 
+ONLY in its publicly distributed SDK artifacts (PyPI wheels, npm packages, 
+Maven artifacts, NuGet packages). The source code in this private repository 
+is NOT licensed under BUSL-1.1 and does NOT convert to Apache-2.0.
+
+For commercial licensing of the source code or SDKs, contact: b4n1@b4n1.com
