@@ -1,0 +1,19 @@
+{
+  "name": "b4n1/b4n1-audit",
+  "description": "Sovereign security audit - static analysis engine",
+  "type": "library",
+  "license": "BUSL-1.1",
+  "keywords": [
+    "audit",
+    "security",
+    "static-analysis",
+    "sovereign"
+  ],
+  "authors": [
+    {
+      "name": "Bani Montoya",
+      "email": "b4n1@b4n1.com"
+    }
+  ],
+  "homepage": "https://b4n1.com"
+}
