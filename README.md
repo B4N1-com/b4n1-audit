@@ -8,10 +8,17 @@ Security and code-quality scanner — one native core, thin wrappers for Python,
 
 [English](README.md) · [Español](i18n/README.es.md) · [Deutsch](i18n/README.de.md) · [Français](i18n/README.fr.md) · [Italiano](i18n/README.it.md) · [Português (BR)](i18n/README.pt-BR.md) · [Русский](i18n/README.ru.md) · [العربية](i18n/README.ar.md) · [हिन्दी](i18n/README.hi.md) · [日本語](i18n/README.ja.md) · [한국어](i18n/README.ko.md) · [中文](i18n/README.zh-CN.md)
 
-[![PyPI](https://img.shields.io/pypi/v/b4n1-audit.svg)](https://pypi.org/project/b4n1-audit/)
-[![Python](https://img.shields.io/pypi/pyversions/b4n1-audit.svg)](https://pypi.org/project/b4n1-audit/)
-[![Downloads](https://img.shields.io/pepy/dt/b4n1-audit.svg)](https://pypi.org/project/b4n1-audit/)
 [![License](https://img.shields.io/badge/license-BUSL--1.1-blue.svg)](LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/b4n1-audit.svg)](https://pypi.org/project/b4n1-audit/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/b4n1-audit.svg)](https://pypi.org/project/b4n1-audit/)
+[![Pepy downloads](https://img.shields.io/pepy/dt/b4n1-audit.svg)](https://pepy.tech/project/b4n1-audit)
+[![npm](https://img.shields.io/npm/v/b4n1-audit.svg)](https://www.npmjs.com/package/b4n1-audit)
+[![npm downloads](https://img.shields.io/npm/dm/b4n1-audit.svg)](https://www.npmjs.com/package/b4n1-audit)
+[![NuGet](https://img.shields.io/nuget/v/B4n1Audit.svg)](https://www.nuget.org/packages/B4n1Audit)
+[![NuGet downloads](https://img.shields.io/nuget/dt/B4n1Audit.svg)](https://www.nuget.org/packages/B4n1Audit)
+[![RubyGems](https://img.shields.io/gem/v/b4n1-audit.svg)](https://rubygems.org/gems/b4n1-audit)
+[![Packagist](https://img.shields.io/packagist/v/b4n1/b4n1-audit.svg)](https://packagist.org/packages/b4n1/b4n1-audit)
+[![Go Reference](https://pkg.go.dev/badge/github.com/b4n1-com/b4n1-audit/sdks/go.svg)](https://pkg.go.dev/github.com/b4n1-com/b4n1-audit/sdks/go)
 
 Python wrapper for the `b4n1-audit` engine — a security and code-quality
 scanner that ships as a single precompiled binary. The binary is bundled per
